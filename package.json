@@ -1,0 +1,14 @@
+{
+  "name": "tugas-pekanan-3",
+  "version": "1.0.0",
+  "description": "pekanan 3 js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "deasty",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
